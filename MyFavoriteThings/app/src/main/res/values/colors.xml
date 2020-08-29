@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AED6F1</color>
+    <color name="colorPrimaryDark">#5DADE2</color>
+    <color name="colorAccent">#85C1E9</color>
+    <color name="pop_bkg_color">#AED6F1</color>
+    <color name = "pop_btn_color">#FFFFFF</color>
+</resources>
